@@ -1,4 +1,4 @@
-# use tabs and sidebar in ionic 3
+# Use combine tabs and sidebar in ionic 3
 ```
 $ git clone https://github.com/brilliangit/ionic_tabs_navbar.git
 cd ionic_tabs_navbar/
